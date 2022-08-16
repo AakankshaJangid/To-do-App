@@ -41,7 +41,7 @@ form button:hover{
     align-items: center;
 }
 .todo-list{
-    min-width: 50%;
+    min-width: 30%;
     list-style: none;
 }
 .todo{
